@@ -1,0 +1,10 @@
+20.03.2021 21:10:50 (FATAL): Все без фатальных ошибок c = 5
+20.03.2021 21:10:51 (FATAL): Фатальная ошибка = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+20.03.2021 21:10:54 (FATAL): Фатальная ошибка = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+20.03.2021 21:10:58 (FATAL): Все без фатальных ошибок c = 3
