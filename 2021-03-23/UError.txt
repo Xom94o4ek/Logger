@@ -1,0 +1,4 @@
+23.03.2021 10:18:54 (UERROR): (1)Ошибка уникальная = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20

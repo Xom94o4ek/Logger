@@ -1,0 +1,32 @@
+23.03.2021 10:18:51 (ERROR): Все без ошибок c = 5
+23.03.2021 10:18:54 (ERROR): (1)Ошибка уникальная = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:18:54 (ERROR): Ошибка = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:18:54 (ERROR): Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:18:54 (ERROR): (2)Ошибка уникальная = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:18:56 (ERROR): (1)Ошибка уникальная = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:18:56 (ERROR): Ошибка = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:18:56 (ERROR): Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:18:56 (ERROR): (2)Ошибка уникальная = 0
+				Исключение: Attempted to divide by zero.
+				Метод: Void Main(System.String[])
+				Трассировка стека:    at Logger.Program.Main(String[] args) in C:\Users\irek1\source\repos\Logger\Logger\Program.cs:line 20
+23.03.2021 10:19:01 (ERROR): Все без ошибок c = 3
